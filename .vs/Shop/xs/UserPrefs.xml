@@ -1,26 +1,26 @@
 ﻿<Properties StartupConfiguration="{F698EB8A-1DA4-42AA-BFC9-77B0D581F58F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Repositories/Cart.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
     <Files>
-      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="14" Column="46" />
       <File FileName="Repositories/DiscountFor6OrMoreItems.cs" Line="23" Column="14" />
       <File FileName="Repositories/Discount3For2.cs" Line="1" Column="1" />
       <File FileName="Repositories/Cart.cs" Line="1" Column="1" />
+      <File FileName="README.md" Line="3" Column="25" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Shop" expanded="True">
             <Node name="Shop" expanded="True">
-              <Node name="Repositories" expanded="True">
-                <Node name="Cart.cs" selected="True" />
-              </Node>
+              <Node name="Repositories" expanded="True" />
+              <Node name="README.md" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Shop FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Shop PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
