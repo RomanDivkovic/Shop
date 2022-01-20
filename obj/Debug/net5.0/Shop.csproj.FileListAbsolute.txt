@@ -1,0 +1,15 @@
+/Users/romandivkovic/Projects/Shop/bin/Debug/net5.0/Shop.deps.json
+/Users/romandivkovic/Projects/Shop/bin/Debug/net5.0/Shop.runtimeconfig.json
+/Users/romandivkovic/Projects/Shop/bin/Debug/net5.0/Shop.runtimeconfig.dev.json
+/Users/romandivkovic/Projects/Shop/bin/Debug/net5.0/Shop.dll
+/Users/romandivkovic/Projects/Shop/bin/Debug/net5.0/ref/Shop.dll
+/Users/romandivkovic/Projects/Shop/bin/Debug/net5.0/Shop.pdb
+/Users/romandivkovic/Projects/Shop/obj/Debug/net5.0/Shop.csproj.AssemblyReference.cache
+/Users/romandivkovic/Projects/Shop/obj/Debug/net5.0/Shop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romandivkovic/Projects/Shop/obj/Debug/net5.0/Shop.AssemblyInfoInputs.cache
+/Users/romandivkovic/Projects/Shop/obj/Debug/net5.0/Shop.AssemblyInfo.cs
+/Users/romandivkovic/Projects/Shop/obj/Debug/net5.0/Shop.csproj.CoreCompileInputs.cache
+/Users/romandivkovic/Projects/Shop/obj/Debug/net5.0/Shop.dll
+/Users/romandivkovic/Projects/Shop/obj/Debug/net5.0/ref/Shop.dll
+/Users/romandivkovic/Projects/Shop/obj/Debug/net5.0/Shop.pdb
+/Users/romandivkovic/Projects/Shop/obj/Debug/net5.0/Shop.genruntimeconfig.cache
